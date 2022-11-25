@@ -1,0 +1,13 @@
+# PRO-ABDOZYANE-75
+
+pkg install git 
+
+pkg install python
+
+pkg install python3
+
+git clone https://github.com/ABDOZYANE/PRO-ABDOZYANYE-75.git
+
+cd PRO-ABDOZYANE-75
+
+python 'PRO ZYANE 11.py'
